@@ -1,2 +1,13 @@
-smschatyo is a simple and light weight chat client built on top of node.js
-this is free and open source software, realeased under the terms of the GPL
+smschatyo is a simple and light weight chat client built on top of node.js and chat.js 
+
+the node.js source can be found here:
+
+http://nodejs.org/
+
+the chat.js source can be found here:
+
+http://dhotson.tumblr.com/post/271733389/a-simple-chat-server-in-node-js
+
+smschatyo is free and open source software, realeased under the terms of the GPL
+
+see GPL.txt for further details
